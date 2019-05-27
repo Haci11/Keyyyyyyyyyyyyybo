@@ -1,5 +1,5 @@
 
-// Här används Keyfown funktionen för alla divar
+// Här används Keydown funktionen för alla divar som kommer ändra färg
  document.onkeydown = function(event) {
       switch (event.keyCode) {
         case 82:
