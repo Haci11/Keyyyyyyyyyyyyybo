@@ -1,5 +1,5 @@
 
-
+// Här används Keyfown funktionen för alla divar
  document.onkeydown = function(event) {
       switch (event.keyCode) {
         case 82:
@@ -259,7 +259,7 @@
           }
 };
 
-
+// här är det nästsn smamma men Keyup funktionen..
 document.onkeyup = function(keyy) {
       switch (keyy.keyCode) {
         case 82:
